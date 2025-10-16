@@ -1,4 +1,4 @@
-# SINGLE_sTAGE_AMPLIFIER-
+# SINGLE_STAGE_AMPLIFIER-
 ## EXPERIMENT3: Design a CMOS Single Stage Amplifier and findout the DC and OP analysis.
 
 ## Aim:
